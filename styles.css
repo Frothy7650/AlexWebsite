@@ -1,0 +1,13 @@
+body {
+  /* Color shit, dark mode */
+  background-color: Canvas;
+  color: CanvasText;
+  color-scheme: light dark;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
